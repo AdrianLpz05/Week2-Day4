@@ -1,0 +1,37 @@
+
+body {
+    border: 1px solid black;
+    width: 290px;
+    height: 300px;
+    font-family: Arial, "Times New Roman";
+    border-radius: 10px;
+    margin: 200px auto 0 auto;
+}
+h1 {
+    font-size: 30px;
+    font-weight: 500;
+    margin: 26px 0 26px 0;
+    text-align: center;
+}
+.inputinfo {
+    margin: 10px;
+    font-size: 15px;
+    text-align: center;
+    padding: 1px;
+}
+.submit {
+    text-align: center;
+    margin-top: 25px;
+}
+label {
+    line-height: 10px;
+}
+input[type="text"] {
+    height: 23px;
+}
+input[type="submit"] {
+    width: 270px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 4px;
+}
